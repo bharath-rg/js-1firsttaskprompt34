@@ -3,3 +3,5 @@ let a= prompt("enter your name");
  let c=prompt("end slice 4")
 alert(`${a.slice(b,c)}`);
 
+
+
